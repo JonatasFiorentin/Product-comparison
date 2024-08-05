@@ -1,5 +1,9 @@
+  import { DescricaoSofa } from "./components/DescricaoSofa"
+
 function App() {
-  return <></>
+  return <>
+  <DescricaoSofa />
+  </>
 }
 
 export default App
